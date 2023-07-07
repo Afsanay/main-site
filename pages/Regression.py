@@ -40,10 +40,10 @@ st.markdown(
     """
     <h2 class = "font-size:5px">ML-Auto</h2>
     <p class= "font-size:2px">This project uses Lazy-Predictor library for generating full analysis of a given dataset along with losses of all the regression models after training.</p>
-        <a href= "https://imagecaption-wnkc2rz0ph.streamlit.app/">Checkout the project</a>
+        <a href= "https://ml-auto-app-caazazdd3ye.streamlit.app/">Checkout the project</a>
         <img class="small-image" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/> 
         <br/>
-        <a href= "https://github.com/Afsanay/image_caption">Github</a>
+        <a href= "https://github.com/Afsanay/ml-auto-app">Github</a>
         <img class="small-image" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> 
     """,
     unsafe_allow_html=True
